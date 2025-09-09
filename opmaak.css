@@ -1,7 +1,12 @@
 body {
     background-color: darkturquoise;
+    opacity: 0.3;
 }
 h3 {
     color: aliceblue;
     text-align: center;
+}
+p {
+    font-family: Verdana;
+    font-size: 20px;
 }
