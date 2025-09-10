@@ -7,14 +7,20 @@ h3 {
     color: aliceblue;
 }
 ul {
-    color: grey;
+    
     background-color:white;
-    opacity: 1;
     list-style-type: none;
     text-align: left;
     text-decoration: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+
 } /*tekst mnu*/
 
 ul li a:hover {
    background-color: darkturquoise;
+}
+ul li {
+    float: left;
 }
