@@ -23,4 +23,13 @@ ul li a:hover {
 }
 ul li {
     float: left;
+
+}
+ul li a {
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+
 }
