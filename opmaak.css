@@ -11,3 +11,7 @@ ul {
     color: aliceblue;
     text-align: center;
 }
+p{
+    background-color: blue;
+    opacity: 0.1;
+}
