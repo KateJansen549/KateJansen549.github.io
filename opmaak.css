@@ -12,4 +12,5 @@ ul {
     text-align: center;
     background-color: blue;
     opacity: 1;
+    list-style-type: none;
 }
