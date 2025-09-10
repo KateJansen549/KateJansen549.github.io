@@ -5,11 +5,10 @@ body {
 /*tekst over mezelf*/
 h3 {
     color: aliceblue;
-    text-align: center;
+    .
 }
 ul {
     color: aliceblue;
-    text-align: center;
     background-color: blue;
     opacity: 1;
     list-style-type: none;
