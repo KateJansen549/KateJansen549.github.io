@@ -11,4 +11,5 @@ ul {
     background-color: blue;
     opacity: 1;
     list-style-type: none;
+    text-align: left;
 }
