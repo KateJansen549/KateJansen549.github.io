@@ -37,7 +37,7 @@ ul li a.active {
     background-color: aliceblue;
 }
 
-p {
+#p1 {
     color: darkblue;
     float: left;
     padding: 10px;
