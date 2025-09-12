@@ -45,3 +45,9 @@ p {
     border-style: double;
  
 }
+h1 {
+    padding: 10 px;
+    margin: 10px;
+    color: darkblue;
+    
+}
