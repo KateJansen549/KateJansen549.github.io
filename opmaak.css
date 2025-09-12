@@ -37,3 +37,8 @@ ul li a.active {
     background-color: aliceblue;
 }
 
+p {
+    color: darkblue;
+    background-color: cadetblue;
+    float: left;
+}
