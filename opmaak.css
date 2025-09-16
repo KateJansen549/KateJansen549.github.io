@@ -16,7 +16,8 @@ ul {
     margin: 0;
     overflow: hidden;
 
-} /*tekst menu*/
+} 
+/*tekst menu*/
 
 ul li a:hover {
    background-color: darkturquoise;
