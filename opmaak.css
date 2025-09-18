@@ -1,6 +1,9 @@
 body {
     background-color: azure;
     opacity: 1;
+    padding: 15px;
+    margin: 10px;
+    
 }
 /*opmaak tekst over mezelf*/
 h3 {
@@ -66,6 +69,6 @@ h1 {
     padding: 15px;
     border-style: double;
 }
-/*opmaak tekst over het biinaire stelsel*/
+/*opmaak tekst over het binaire stelsel*/
 
 
