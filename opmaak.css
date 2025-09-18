@@ -28,6 +28,9 @@ ul {
 
 ul li a:hover {
    background-color: darkturquoise;
+   color: white;
+   text-decoration: underline;
+
 }
 /*opmaak klikken in menu*/
 ul li {
