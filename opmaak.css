@@ -3,7 +3,7 @@ body {
     opacity: 1;
     padding: 15px;
     margin: 10px;
-    
+
 }
 /*opmaak tekst over mezelf*/
 h3 {
@@ -71,4 +71,11 @@ h1 {
 }
 /*opmaak tekst over het binaire stelsel*/
 
-
+p4 {
+    padding: 15px;
+    margin: 10px;
+    color: darkblue;
+    border-style: double;
+    float: left;
+    
+}
