@@ -2,11 +2,12 @@ body {
     background-color: azure;
     opacity: 1;
 }
-/*tekst over mezelf*/
+/*opmaak tekst over mezelf*/
 h3 {
     color: darkblue;
 }
-ul {
+/*opmaak titel*/
+ul { 
     
     background-color:white;
     list-style-type: none;
@@ -18,15 +19,17 @@ ul {
    
 
 } 
-/*tekst menu*/
+/*opmaak menu*/
 
 ul li a:hover {
    background-color: darkturquoise;
 }
+/*opmaak klikken in menu*/
 ul li {
     float: left;
 
 }
+/*opmaak klikken in menu*/
 ul li a {
     display: block;
     color: darkblue;
@@ -35,10 +38,11 @@ ul li a {
     text-decoration: none;
 
 }
+/*opmaak klikken in menu*/
 ul li a.active {
     background-color: aliceblue;
 }
-
+/*opmaak hover menu*/
 #p1 {
     color: darkblue;
     float: left;
@@ -47,16 +51,21 @@ ul li a.active {
     border-style: double;
  
 }
+/*opmaak p1 */
+
 h1 {
     padding: 10 px;
     margin: 10px;
     color: darkblue;
     
 }
+/*opmaak kopjes*/
 #p3 {
     color: darkblue;
     margin: 10px;
     padding: 15px;
     border-style: double;
 }
+/*opmaak tekst over het biinaire stelsel*/
+
 
