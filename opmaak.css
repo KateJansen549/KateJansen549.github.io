@@ -87,10 +87,10 @@ h1 {
 /*tekst over de inhoud*/
 
 #if1 {
-    width: 100%;
+   
     float: left; /*rechterkant van de pagina*/
 } /*spelltje 1*/
 #if2 {
-    width: 100%;
+  
     float: right; /*linkerkant van de pagina*/
 } /*spelletje 2*/
