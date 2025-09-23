@@ -53,9 +53,9 @@ ul li a.active {
 /*opmaak hover menu*/
 #p1 {
     color: darkblue;
-    float: left;
-    padding: 15px;
-    margin: 10 px;
+    float: left; 
+    padding: 15px; /*ruimte binnen de rand van het element*/
+    margin: 10 px; /*ruimte buiten de rand van het element*/
     border-style: double;
  
 }
