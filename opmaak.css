@@ -1,7 +1,7 @@
 body {
     background-color: azure; /*achtergrond kleur*/
     opacity: 1; /*vervaging*/
-    padding: 15px; /*ruimte binnen de rand van het elemant*/
+    padding: 15px; /*ruimte binnen de rand van het element*/
     margin: 10px; /*ruimte buiten de rand van het element*/
 
 }
