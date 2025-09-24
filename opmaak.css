@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue; /*achtergrond kleur*/
+    background-color: azure; /*achtergrond kleur*/
     opacity: 1; /*vervaging*/
     padding: 15px; /*ruimte binnen de rand van het element*/
     margin: 10px; /*ruimte buiten de rand van het element*/
@@ -27,7 +27,7 @@ ul {
 /*opmaak menu*/
 
 ul li a:hover {
-   background-color: darkturquoise;
+   background-color: cadetblue;
    color: white;
    text-decoration: underline;
 
@@ -82,7 +82,7 @@ h1 {
     color: darkblue;
     border-style: double;
     float: left;
-    background-color: azure;
+    background-color: ghostwhite;
 
 }
 /*tekst over de inhoud*/
