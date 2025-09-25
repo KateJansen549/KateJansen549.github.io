@@ -97,7 +97,7 @@ h1 {
 } /*spelletje 2*/
 
 #plaatje1 {
-    float: center;
+    float:left;
     border-style: double;
     padding: 10px;
     margin: 15px;
