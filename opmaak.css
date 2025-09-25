@@ -95,6 +95,7 @@ h1 {
   
     float: right; /*linkerkant van de pagina*/
 } /*spelletje 2*/
+
 #plaatje1 {
     float: center;
     border-style: double;
