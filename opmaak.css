@@ -57,7 +57,7 @@ ul li a.active {
     color: darkblue;
     float: left; 
     padding: 20px; /*ruimte binnen de rand van het element*/
-    margin: 15 px; /*ruimte buiten de rand van het element*/
+    margin: 15px; /*ruimte buiten de rand van het element*/
     border-style: double;
  
 }
