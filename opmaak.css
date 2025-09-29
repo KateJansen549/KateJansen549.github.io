@@ -1,6 +1,6 @@
 body {
-    background-color: lightblue; /*achtergrond kleur*/
-    opacity: 1; /*vervaging*/
+    background-color: lightblue; /*achtergrond kleur van de hele pagina*/
+    opacity: 1; /*vervaging dus dit zorgt ervoor hoe zichtbaar iets is*/
     padding: 20px; /*ruimte binnen de rand van het element*/
     margin: 25px; /*ruimte buiten de rand van het element*/
 
@@ -26,7 +26,7 @@ ul {
    
 
 } 
-/*opmaak menu*/
+/*opmaak menu items naast elkaar zetten*/
 
 ul li a:hover {
    background-color: cadetblue;
@@ -41,16 +41,16 @@ ul li {
 }
 /*opmaak klikken in menu*/
 ul li a {
-    display: block;
-    color: darkblue;
-    text-align: left;
+    display: block; /*gedraagt zich als een blok*/
+    color: darkblue; /*tekstkleur*/
+    text-align: left; /*tekst uitlijnen*/
     padding: 14px 16px;
-    text-decoration: none;
+    text-decoration: none; /*tekst decoratie*/
 
 }
 /*opmaak klikken in menu*/
 ul li a.active {
-    background-color: aliceblue;
+    background-color: aliceblue; /*menu achtergrondkleur*/
 }
 /*opmaak hover menu*/
 #p1 {
@@ -74,7 +74,7 @@ h1 {
     color: darkblue;
     margin: 15px;
     padding: 20px;
-    border-style: double;
+    border-style: double; /* uitlijn van het blok dub een dubbele lijn*/
 }
 /*opmaak tekst over het binaire stelsel*/
 
@@ -83,7 +83,7 @@ h1 {
     margin: 15px;
     color: darkblue;
     border-style: double;
-    float: left;
+    float: left; /*aan welke kant de tekst staat*/
     background-color: aliceblue;
 
 }
@@ -100,7 +100,6 @@ h1 {
 
 #plaatje1 {
     float:left;
-   
     padding: 15px;
     margin: 20px;
 }
