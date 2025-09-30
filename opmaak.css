@@ -108,3 +108,13 @@ h1 {
     padding: 15px;
     margin: 20px;
 }
+footer { 
+    background-color: blue;     /* achtergrond */
+    color: white;                  /* witte tekst */
+    text-align: center;            /* in het midden */
+    padding: 5px 20px;           /* ruimte in het blok aan de boven/onderkant en de zijkanten */
+    font-size: 14px;             /* tekstgrootte */
+    margin-top: 0;            /* er moet geen ruimte zitten tussen de footer en de laatste afbeelding */
+    position: relative;          /* relatieveren aan dezelfde plek als de rest van de tekst en plaatjes */
+    width: auto; 
+}
